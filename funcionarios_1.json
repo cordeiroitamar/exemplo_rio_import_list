@@ -1,0 +1,17 @@
+[
+ {
+  "nome": "Jorge",
+  "departamento": "Cozinha",
+  "salario": 2000
+ },
+ {
+  "nome": "Mariana",
+  "departamento": "Limpeza",
+  "salario": 4000
+ },
+ {
+  "nome": "Carla",
+  "departamento": "Gerencia",
+  "salario": 10000
+ }
+]
